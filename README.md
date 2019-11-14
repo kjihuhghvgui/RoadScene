@@ -4,8 +4,10 @@ This datset has 221 aligned Vis and IR image pairs containing rich scenes such a
 
 Some typical examples are shown below(the left column is Vis images and the right column is IR images):<br>
 
-<img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/crop_HR_visible/FLIR_05164.jpg" width="400" height="240"/>
-<img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/cropinfrared/FLIR_05164.jpg" width="400" height="240"/>
+<center class="half">
+    <img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/crop_HR_visible/FLIR_05164.jpg" width="400" height="240"/><img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/cropinfrared/FLIR_05164.jpg" width="400" height="240"/>
+</center>
+
 
 <div align=left><img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/crop_HR_visible/FLIR_06832.jpg" width="400" height="260"/></div>
 
