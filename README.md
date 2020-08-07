@@ -22,3 +22,13 @@ booktitle={proceedings of the Thirty-Fourth AAAI Conference on Artificial Intell
 year={2020}
 }
 ```
+or<br>
+```
+@article{xu2020u2fusion,
+  title={U2Fusion: A Unified Unsupervised Image Fusion Network},
+  author={Xu, Han and Ma, Jiayi and Jiang, Junjun and Guo, Xiaojie and Ling, Haibin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2020},
+  publisher={IEEE}
+}
+```
